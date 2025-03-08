@@ -12,7 +12,7 @@ categories: blog
 
 * ["The Battle For Kursk Oblast Has Entered Its Final Stage⚔️🔥 Military Summary And Analysis 2025.03.8📅📊"][L05] - codzienna porcja informacj z Military Summary - no i mapki.
 
-* ["TAK TRZEBA SIĘ ZACHOWAĆ!"][L08] - Pan Matka Kurka, którego ogólnie lubię słuchać, porównuję [sprawe Romanowskiego][L09] do zachowania pana Mateckeigo i chwali tego drugiego. Znalazłem co prawda [trochę wiadomości (przez googla) na stronie TVN][L13] i wynika z nich że chodziło niby o jego fikcyjne zatrudnienie w lasach pańśtwowych. Z tego co słyszę od Matka Kurka to są różne opinie na ten temat więc ja sam się nie wypowiadam. Widze jednak że Tusk bardzo bierze się do roboby żeby rozprawić się z konkurencją. Pewnie ma na to wpływ wybór na prezydenta.
+* ["TAK TRZEBA SIĘ ZACHOWAĆ!"][L08] - Pan Matka Kurka, którego ogólnie lubię słuchać, porównuję [sprawe Romanowskiego][L09] do zachowania pana Mateckeigo i chwali tego drugiego. Znalazłem co prawda [trochę wiadomości (przez googla) na stronie TVN][L13] i wynika z nich że chodziło niby o jego fikcyjne zatrudnienie w lasach pańśtwowych. Z tego co słyszę od Matka Kurka to są różne opinie na ten temat więc ja sam się nie wypowiadam. Widze jednak że Tusk bardzo bierze się do roboby żeby rozprawić się z konkurencją. Pewnie ma na to wpływ oczekiwane wybóry na prezydenta.
 
 * ["SZYKUJĄ DUŻY NUMER!"][L10] - Ponieważ go reklamował (że był duży oddzew) to zobaczyłem sobie także poprzenid program pana Matka Kurka (na kanale zwanym ["Polska Chata Biskupin"][L11]).
 
