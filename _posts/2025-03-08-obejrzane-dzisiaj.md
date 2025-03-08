@@ -20,7 +20,20 @@ categories: blog
 
 * ["WITOLD GADOWSKI o kosztach pomocy dla Ukrainy. Zagrożenia, o których nie wiemy."][L12] - Rok rządów Tuska jest rokiem straconym, Jesteśmy krajem komplementarnym Niemiec.
 
+* Próbowałem obejrzeć program polsatnews.pl: ["PiS w rozterce: jak wspierać Ukrainę i nie podpaść Trumpowi?"][L18], ale nie dałem rady. Za bardzo zaczęła mnie wkurwiać prowadząca propagandystka/manipulantka. Widzę że w komentarzu ktoś nawet napisał (pierwszy komentarz, przez co go od razu zauważyłem):
+
+	`@markuspilmar9757	3 hours ago`	
+	<blockquote>	
+	"Trumpofobia" prowadzącej ten program, jest przerażająca. Wściekłe atakowanie przywódcy największego mocarstwa na świecie to nic innego jak brak, delikatnie mówiąc zdrowego rozsądku. 
+	</blockquote>
+	
+	Prawdę mówiąc to ja nawet nie zdążyłem dotrwac do tej "Trumpofobi", tak szybko mnie ta pani odpychnęła swoim "profesjonalizmem".
+	
+* ["Singapore's Top Diplomat Reveals TRUTH About Ukraine and Future of Europe"][L19] - Mój ulubiony Cyrus Janssen (którego subskrybowałem na "NewPipe"), kiedy jeszcze yt umożliwiał jego używanie (teraz chce żebym się logował czego NP nie potrafi).
+
+
 ---
+
 Kiedyś zapisywałem sobie też artykuły które czytałem - głównie z [Hacker News][La0], ale ostatnio niewiele tam czytam, a nawet jeśli czytam to nie widzę powodów żeby to sobie na później zostawiać, tak jak to było poprzednio. Może [HN][La0] nie jest już taki ciekawy jak kiedyś? W każdym bądź razie mam wrażenie że od czasu objęcia urzędu przez Trumpa Youtube proponuje mi ciekawsze filmiki niż przedtem (bo większość tych które tutaj zapisałem zostały zaproponowane przez yt).
 
 <!-- links -->
@@ -37,3 +50,5 @@ Kiedyś zapisywałem sobie też artykuły które czytałem - głównie z [Hacker
 [L13]: https://tvn24.pl/polska/posel-pis-dariusz-matecki-przed-sadem-decyzja-o-areszcie-st8339979
 [L14]: https://www.youtube.com/watch?v=hYfByTcY49k
 [La0]: https://www.hckrnews.com
+[L18]: https://www.youtube.com/watch?v=k-4ea2dfRG4
+[L19]: https://www.youtube.com/watch?v=Eh1zmDi0qN0
