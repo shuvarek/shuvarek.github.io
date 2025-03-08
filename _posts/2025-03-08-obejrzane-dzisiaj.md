@@ -20,6 +20,8 @@ categories: blog
 
 * ["WITOLD GADOWSKI o kosztach pomocy dla Ukrainy. Zagrożenia, o których nie wiemy."][L12] - Rok rządów Tuska jest rokiem straconym, Jesteśmy krajem komplementarnym Niemiec.
 
+---
+Kiedyś zapisywałem sobie też artykuły które czytałem - głównie z [Hacker News][La0], ale ostatnio niewiele tam czytam, a nawet jeśli czytam to nie widzę powodów żeby to sobie na później zostawiać, tak jak to było poprzednio. Może [HN][La0] nie jest już taki ciekawy jak kiedyś?
 
 <!-- links -->
 [L01]: https://www.youtube.com/watch?v=DX0iU2wf2vE
@@ -34,3 +36,4 @@ categories: blog
 [L12]: https://www.youtube.com/watch?v=1yuV7b3Lrvk
 [L13]: https://tvn24.pl/polska/posel-pis-dariusz-matecki-przed-sadem-decyzja-o-areszcie-st8339979
 [L14]: https://www.youtube.com/watch?v=hYfByTcY49k
+[La0]: https://www.hckrnews.com
