@@ -14,7 +14,7 @@ categories: blog
 
 * ["TAK TRZEBA SIĘ ZACHOWAĆ!"][L08] - Pan Matka Kurka, którego ogólnie lubię słuchać, porównuję [sprawe Romanowskiego][L09] do zachowania pana Mateckeigo i chwali tego drugiego. Znalazłem co prawda [trochę wiadomości (przez googla) na stronie TVN][L13] i wynika z nich że chodziło niby o jego fikcyjne zatrudnienie w lasach pańśtwowych. Z tego co słyszę od Matka Kurka to są różne opinie na ten temat więc ja sam się nie wypowiadam. Widze jednak że Tusk bardzo bierze się do roboby żeby rozprawić się z konkurencją. Pewnie ma na to wpływ wybór na prezydenta.
 
-* ["SZYKUJĄ DUŻY NUMER!"][L10] - Ponieważ go reklamował (że był duży oddzew) to zobaczyłem sobie także poprzenid program pana Matka Kurka (na kanale zwanym ["Polska Chata Biskupin"][L11].
+* ["SZYKUJĄ DUŻY NUMER!"][L10] - Ponieważ go reklamował (że był duży oddzew) to zobaczyłem sobie także poprzenid program pana Matka Kurka (na kanale zwanym ["Polska Chata Biskupin"][L11]).
 
 * ["Dzień z Mentzenem i Bryłką: Lwów"][L06] - To jest ten film o którym Mentzen tad dużo mówi w swoich różnych wywiadach. Już na początek nie podoba mi się wypowiedź pani która z nim jedzie że że wojna trała ["przez ostatnie 3 lata" (1:50)][L07]. Nie droga pani, wojna trwała od 2014 roku i widocznie pani nie zauważyła że narracja polskich propagandystów też już się zmienia i uwzględnia tę datę. Propaganda Mentzena wciąż jescze do tyłu. Zniechęciło mnie to trochę i przestałem oglądać ten program, zostawiając sobie go na później.
 
