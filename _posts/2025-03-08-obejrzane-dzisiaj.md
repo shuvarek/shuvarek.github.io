@@ -31,6 +31,8 @@ categories: blog
 	
 * ["Singapore's Top Diplomat Reveals TRUTH About Ukraine and Future of Europe"][L19] - Mój ulubiony Cyrus Janssen (którego subskrybowałem na "NewPipe"), kiedy jeszcze yt umożliwiał jego używanie (teraz chce żebym się logował czego NP nie potrafi).
 
+* ["Yale Economist Stephen Roach Reveals Shocking SECRET About China Trade War"][L20] - także pan Cyrus, polecany przez yt, zaciekawił mnie tytuł, znajdują się w nim takie kwiatki jak: "Common sense in Washington is a little bit of oxymoron"
+
 
 ---
 
@@ -52,3 +54,4 @@ Kiedyś zapisywałem sobie też artykuły które czytałem - głównie z [Hacker
 [La0]: https://www.hckrnews.com
 [L18]: https://www.youtube.com/watch?v=k-4ea2dfRG4
 [L19]: https://www.youtube.com/watch?v=Eh1zmDi0qN0
+[L20]: https://www.youtube.com/watch?v=jwlrS0p9jL8
