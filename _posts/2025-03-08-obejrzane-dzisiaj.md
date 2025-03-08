@@ -29,7 +29,7 @@ categories: blog
 	
 	Prawdę mówiąc to ja nawet nie zdążyłem dotrwac do tej "Trumpofobi", tak szybko mnie ta pani odpychnęła swoim "profesjonalizmem".
 	
-* ["Singapore's Top Diplomat Reveals TRUTH About Ukraine and Future of Europe"][L19] - Mój ulubiony Cyrus Janssen (którego subskrybowałem na "NewPipe"), kiedy jeszcze yt umożliwiał jego używanie (teraz chce żebym się logował czego NP nie potrafi).
+* ["Singapore's Top Diplomat Reveals TRUTH About Ukraine and Future of Europe"][L19] - Mój ulubiony Cyrus Janssen (którego subskrybowałem na "NewPipe", kiedy jeszcze yt umożliwiał jego używanie, teraz chce żebym się logował czego NP nie potrafi).
 
 * ["Yale Economist Stephen Roach Reveals Shocking SECRET About China Trade War"][L20] - także pan Cyrus, polecany przez yt, zaciekawił mnie tytuł, znajdują się w nim takie kwiatki jak: "Common sense in Washington is a little bit of oxymoron"
 
