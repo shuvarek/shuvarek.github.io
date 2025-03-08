@@ -16,7 +16,7 @@ categories: blog
 
 * ["SZYKUJĄ DUŻY NUMER!"][L10] - Ponieważ go reklamował (że był duży oddzew) to zobaczyłem sobie także poprzenid program pana Matka Kurka (na kanale zwanym ["Polska Chata Biskupin"][L11].
 
-* ["Dzień z Mentzenem i Bryłką: Lwów"][L06] - To jest ten film o którym Mentzen tad dużo mówi w swoich różnych wywiadach. Już na początek nie podoba mi się wypowiedź pani która z nim jedzie że że wojna trała ["przez ostatnie 3 lata" (1:50)][L07]. Nie droga pani, wojna trwała od 2014 roku i widocznie pani nie zauważyła że narracja polskich propagandystów też już się zmienia i uwzględnia tę datę. Propaganda Mentzena wciąż jescze do tyłu.
+* ["Dzień z Mentzenem i Bryłką: Lwów"][L06] - To jest ten film o którym Mentzen tad dużo mówi w swoich różnych wywiadach. Już na początek nie podoba mi się wypowiedź pani która z nim jedzie że że wojna trała ["przez ostatnie 3 lata" (1:50)][L07]. Nie droga pani, wojna trwała od 2014 roku i widocznie pani nie zauważyła że narracja polskich propagandystów też już się zmienia i uwzględnia tę datę. Propaganda Mentzena wciąż jescze do tyłu. Zniechęciło mnie to trochę i przestałem oglądać ten program, zostawiając sobie go na później.
 
 * ["WITOLD GADOWSKI o kosztach pomocy dla Ukrainy. Zagrożenia, o których nie wiemy."][L12] - Rok rządów Tuska jest rokiem straconym, Jesteśmy krajem komplementarnym Niemiec.
 
