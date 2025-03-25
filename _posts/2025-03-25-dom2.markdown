@@ -1,0 +1,48 @@
+---
+layout: post 
+title: Dom2
+date: 2025-03-25 
+categories: dziennik 
+---
+
+
+Oto strona która została zamieszczona na OLX-ie:
+["2 pokoje, mieszkanie na sprzedaż - Mysłowice, śląskie - 66604694 • www.otodom.pl"][L03]
+
+Pod ogłoszeniem podpisuje się pan "Piort" - myślę że jest to pan Artur Piotr Stanclik
+
+Artur Stanclik
+Ma firmę `ART-FLAT`, której działalność jest zawieszona z tego co rozumiemm.
+NIP 6462704939
+ul. Marka 1, 41-407 Imielin
+
+Ale znalazłem też taką spółkę z udziałem pana Artura Piotra Stanclika:
+
+["INVESTATE SOLUTIONS"][L04]
+
+|-------|------------|
+| KRS   | 0000555757 |
+| NIP   | 6452542783 |
+| REGON | 361370409  |
+|       |            |
+
+Widzę też że pan [Artur Stanclik był syndykiem masy upadłościowej przetsiębiorstwa upadłego w 2021 roku][L05]
+
+Na swoim [LinkedIn][L06] pisze:
+
+ExperienceExperience
+
+|----------------------|------------------------------------------------------------------------|------------------------------------|-----------------------------------------|
+| Prezes zarządu       | INVESTATE SOLUTIONS · Self-employedINVESTATE SOLUTIONS · Self-employed | Jul 2023 - Present · 1 yr 9 mos    | Katowice, Woj. Śląskie, Polska · Hybrid |
+| Koordynator operacji | COPCO Plus Sp. z o.o. · Full-time                                      | Apr 2018 - Jan 2024 · 5 yrs 10 mos | Imielin, Woj. Śląskie, Polska · On-site |
+| Kierownik Sprzedaży  | Copco Spòłka Z Ograniczona Odpowiedzialnoscią Sp. K. · Full-time       | Sep 2014 - Mar 2018 · 3 yrs 7 mos  | Imielin, Woj. Śląskie, Polska · On-site |
+
+
+
+# Koniec
+
+<!-- links -->
+[L03]: https://www.otodom.pl/pl/oferta/mieszkanie-1-2-udzial-myslowice-mikolowska-8-ID4wsWg.html
+[L04]: https://rejestr.io/krs/555757/investate-solutions
+[L05]: https://www.dawro.pl/ogloszenie/132953,nieruchomosc-gruntowa-w-imielinie-ul-krotka-pozostale-ruchome-skladniki-majatku_artur-stanclik-artflat-w-upadlosci#opis
+[L06]: https://www.linkedin.com/in/artur-stanclik-a4aa99b8/
